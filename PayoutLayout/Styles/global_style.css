@@ -16,10 +16,18 @@ ol {
     padding: 0;
 }
 
-.body {
-    
-    margin: 20px;
+main {
     background-color: #dbdeec;
+}
+
+aside {
+    width: 250px;
+    background: #f4f4ff;
+    border: 1px solid #ccc;
+}
+
+.body {
+    margin: 20px;
 }
 
 img {
@@ -140,10 +148,4 @@ img {
 
 .vm {
     vertical-align: middle;
-}
-
-aside {
-    width: 250px;
-    background: #f4f4ff;
-    border: 1px solid #ccc;
 }
